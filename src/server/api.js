@@ -1,4 +1,4 @@
-import Axios from "../Axios/axios";
+import Axios from "../Axios/Axios.js";
 import { LocalStorage } from "../utils";
 
 // Add an interceptor to set authorization header with user token before requests
